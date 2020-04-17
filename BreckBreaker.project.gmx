@@ -20,11 +20,20 @@
     <sprite>sprites\spr_blocker</sprite>
     <sprite>sprites\spr_fail</sprite>
     <sprite>sprites\spr_life</sprite>
+    <sprite>sprites\spr_start</sprite>
+    <sprite>sprites\spr_title</sprite>
+    <sprite>sprites\spr_chris</sprite>
+    <sprite>sprites\spr_score</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_main</background>
+    <background>background\background1</background>
+    <background>background\background2</background>
   </backgrounds>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\font_score</font>
+  </fonts>
   <objects name="objects">
     <object>objects\obj_blocker</object>
     <object>objects\obj_paddle</object>
@@ -39,9 +48,15 @@
     <object>objects\obj_brick9</object>
     <object>objects\obj_breck</object>
     <object>objects\obj_gamecontroller</object>
+    <object>objects\obj_start</object>
+    <object>objects\obj_title</object>
+    <object>objects\obj_powerup</object>
+    <object>objects\obj_score</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
+    <room>rooms\room2</room>
+    <room>rooms\room3</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

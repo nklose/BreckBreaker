@@ -184,26 +184,10 @@
     <instance objName="obj_blocker" x="1920" y="1024" name="inst_D2C05B2C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_blocker" x="1920" y="1056" name="inst_AE9197DE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_gamecontroller" x="0" y="0" name="inst_9B0928D4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_brick1" x="320" y="256" name="inst_06E3BE51" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_brick1" x="192" y="320" name="inst_06E3BE51" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_blocker" x="1920" y="96" name="inst_E0A4D489" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_start" x="32" y="992" name="inst_B5877F75" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_title" x="512" y="0" name="inst_B58A50C9" locked="0" code="" scaleX="0.651636362075806" scaleY="0.479999989271164" colour="4294967295" rotation="0"/>
-    <instance objName="obj_brick1" x="576" y="256" name="inst_54800063" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_brick1" x="832" y="256" name="inst_6B23D003" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_brick1" x="1088" y="256" name="inst_ADD7F187" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_brick1" x="1344" y="256" name="inst_81ED6E57" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_brick2" x="448" y="192" name="inst_D2C14BE3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_brick2" x="704" y="192" name="inst_62238264" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_brick2" x="960" y="192" name="inst_3077A804" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_brick2" x="1216" y="192" name="inst_5134DBA1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_brick2" x="1472" y="192" name="inst_5876DB81" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_brick2" x="192" y="192" name="inst_CBDF4043" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_brick3" x="320" y="128" name="inst_B0007578" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_brick3" x="576" y="128" name="inst_C259F986" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_brick3" x="832" y="128" name="inst_AD57FE17" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_brick3" x="1088" y="128" name="inst_E8FD89F9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_brick3" x="1344" y="128" name="inst_702CE742" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_score" x="1664" y="32" name="inst_C451457C" locked="0" code="" scaleX="0.224000006914139" scaleY="0.228571429848671" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
